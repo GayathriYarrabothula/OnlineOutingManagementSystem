@@ -1,4 +1,5 @@
 **Online Outing Management System**
+
 The Online Outing Management System is a web-based application designed to streamline the process of managing outing requests for educational institutions. It provides a centralized platform for students, faculty members, and wardens to efficiently handle outing applications, approvals, and supervision.
 
 **Key Features**
