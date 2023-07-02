@@ -19,6 +19,9 @@ Wardens have multiple options based on the year groups. They can view the list o
 **Technologies Used**
 
 Front-end: HTML, CSS, Bootstrap, JavaScript
+
 Back-end: Java Servlets, JSP
+
 Database: MySQL
+
 Connectivity: JDBC
